@@ -14,3 +14,8 @@ server.py.
 
 - Angular app not working on RPi 3B+
 - Added additional python rythem scripts.
+
+#### Beat Tools
+- https://drumbit.app/
+- https://drumbit.club/
+- https://io808.com/
