@@ -11,7 +11,7 @@ The PiBeat software is standard Angular app communicating with a Python backend 
 
 #### Kits
 Each student group receives a PiBeat kit that includes the following. 
-[Link to kit Part List](PiBEAT-Parts)
+[Link to kit Student Kits - Part List](PiBEAT-Parts)
 - 1 - Raspberry Pi
 - 1 - MicroSD Card
 - 1 - 5v 8 channel relay
@@ -22,6 +22,9 @@ Each student group receives a PiBeat kit that includes the following.
 - 8 - 1N5401 Rectifier diodes
 
 - 3 - Mini Screwdrivers
+
+### Misc Classroom Materials
+- 5 - MicroSD Card Reader
 
 
 
