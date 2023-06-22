@@ -34,12 +34,20 @@ Each student group receives a PiBeat kit that includes the following.
 #### Session 1 - Raspberry Pi
 - Download Raspberry Pi Imager [Link](https://www.raspberrypi.com/software/)
 - On SDcard install Raspberry Pi OS Legacy (Buster with Desktop Environment)
-- - In the Setting add the following:
+  - In the Setting add the following:
   - Set hostname [your group's name]
   - Enable SSH
   - setup username: pi  password:pipi
   - configure wireless lab:  SSID: [ask professor]  Password: [ask professor]
   - Set local settings: New York
+ 
+- SSH into Pi, using Terminal(Mac) or CMD(Windows)
+  - Ask professor for you IP address, by telling him what hostname you used.
+  - In Terminal/CMD type the following command:    `ssh pi@[ip-address]`
+  - You should receive: `Are you sure you want to continue connecting (yes/no/[fingerprint])?`
+  - type `yes`
+  - You should receive: `password:`
+  - type `pipi`   (you will nott see pipi on screen and the cursor will not move)
 
 #### Session 2 - Connect Pi to Relay
 
