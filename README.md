@@ -60,8 +60,15 @@ Connect to Pi with VNC
 - Open VNC Viewer
   - In the top bar it will say: `Enter a VNC server Address`
   - Enter: `[your ip address]
-  - You will be asked again if you trust the connection. press `yes`
+  - You will be asked again if you trust the connection. Press `yes`
   - input Login: `pi`, Password: `pipi`
+You should now be able to see your Pi's desktop.
+
+#### Pi First configurations
+- Welcome to Raspberry Pi,
+- Next: Set the country to NY, USA,
+- Change Password, `pipi`
+- Setup screen, just press `next`
 
 #### Session 2 - Connect Pi to Relay
 
