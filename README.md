@@ -37,12 +37,12 @@ Each student group receives a PiBeat kit that includes the following.
   - In the Setting add the following:
   - Set hostname [your group's name]
   - Enable SSH
-  - setup username: pi  password:pipi
+  - setup username: pi  password: pipi
   - configure wireless lab:  SSID: [ask professor]  Password: [ask professor]
   - Set local settings: New York
  
 - SSH into Pi, using Terminal(Mac) or CMD(Windows)
-  - Ask professor for you IP address, by telling him what hostname you used.
+  - Ask the professor for your IP address, by telling him what hostname you used.
   - In Terminal/CMD type the following command:    `ssh pi@[ip-address]`
   - You should receive: `Are you sure you want to continue connecting (yes/no/[fingerprint])?`
   - type `yes`
@@ -59,7 +59,7 @@ Connect to Pi with VNC
 - Download and install VNC Viewer on your computer. [Link](https://www.realvnc.com/en/connect/download/viewer/)
 - Open VNC Viewer
   - In the top bar it will say: `Enter a VNC server Address`
-  - Enter: `[your ip address]
+  - Enter: `[your IP address]
   - You will be asked again if you trust the connection. Press `yes`
   - input Login: `pi`, Password: `pipi`
 You should now be able to see your Pi's desktop.
@@ -69,6 +69,9 @@ You should now be able to see your Pi's desktop.
 - Next: Set the country to NY, USA,
 - Change Password, `pipi`
 - Setup screen, just press `next`
+- Select Wifi Network: Skip
+- Update software: Skip
+- Setup complete: Done
 
 #### Session 2 - Connect Pi to Relay
 
