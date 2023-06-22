@@ -54,7 +54,14 @@ VNC will allow you to remotely see the desktop of your raspberry pi computer.
 - In the Pi terminal type: `sudo raspi-config`
 - you will get a visual menu
 - Navigate to `interface options` , `P3 VNC` , enable `yes`
-- 
+
+Connect to Pi with VNC
+- Download and install VNC Viewer on your computer. [Link](https://www.realvnc.com/en/connect/download/viewer/)
+- Open VNC Viewer
+  - In the top bar it will say: `Enter a VNC server Address`
+  - Enter: `[your ip address]
+  - You will be asked again if you trust the connection. press `yes`
+  - input Login: `pi`, Password: `pipi`
 
 #### Session 2 - Connect Pi to Relay
 
