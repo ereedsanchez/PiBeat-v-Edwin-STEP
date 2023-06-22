@@ -47,7 +47,14 @@ Each student group receives a PiBeat kit that includes the following.
   - You should receive: `Are you sure you want to continue connecting (yes/no/[fingerprint])?`
   - type `yes`
   - You should receive: `password:`
-  - type `pipi`   (you will nott see pipi on screen and the cursor will not move)
+  - type `pipi`   (you will not see pipi on screen and the cursor will not move)
+ 
+Enable VNC 
+VNC will allow you to remotely see the desktop of your raspberry pi computer. 
+- In the Pi terminal type: `sudo raspi-config`
+- you will get a visual menu
+- Navigate to `interface options` , `P3 VNC` , enable `yes`
+- 
 
 #### Session 2 - Connect Pi to Relay
 
