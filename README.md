@@ -23,13 +23,35 @@ Each student group receives a PiBeat kit that includes the following.
 
 - 3 - Mini Screwdrivers
 
-### Misc Classroom Materials
+#### Misc Classroom Materials
 - 5 - MicroSD Card Reader
 
 
 
+### Class Sessions 
 
-#### Edwin's notes
+
+#### Session 1 - Raspberry Pi
+- Download Raspberry Pi Imager [Link](https://www.raspberrypi.com/software/)
+- On SDcard install Raspberry Pi OS Legacy (Buster with Desktop Environment)
+- - In the Setting add the following:
+  - Set hostname [your group's name]
+  - Enable SSH
+  - setup username: pi  password:pipi
+  - configure wireless lab:  SSID: [ask professor]  Password: [ask professor]
+  - Set local settings: New York
+
+#### Session 2 - Connect Pi to Relay
+
+#### Session 3 - Relay to Solenoids
+
+#### Session 4 - Sounds 
+
+
+
+
+
+#### Edwin's WIP notes
 
 - Angular app not working on RPi 3B+
 - Added additional python rythem scripts.
