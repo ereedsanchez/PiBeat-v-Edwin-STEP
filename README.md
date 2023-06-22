@@ -1,4 +1,4 @@
-# PiBeat v. Edwin Reed-Sanchez
+# PiBeat v. STEP Summer
 
 A browser based Drum Sequencer to control your Raspberry Pi robotic drum machine from your computer, tablet, mobile etc.
 
