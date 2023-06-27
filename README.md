@@ -80,6 +80,11 @@ You should now be able to see your Pi's desktop.
 #### Session 4 - Sounds 
 
 
+#### Session 5 - Server
+to ru the server u zip the piBeatServer.tar file.
+
+
+
 
 
 
