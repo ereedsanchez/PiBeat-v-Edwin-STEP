@@ -52,14 +52,14 @@ Each student group receives a PiBeat kit that includes the following.
 Enable VNC 
 VNC will allow you to remotely see the desktop of your raspberry pi computer. 
 - In the Pi terminal type: `sudo raspi-config`
-- you will get a visual menu
+- you will get a visual menu (Use the arrow keys and enter to navigate)
 - Navigate to `interface options` , `P3 VNC` , enable `yes`
 
 Connect to Pi with VNC
 - Download and install VNC Viewer on your computer. [Link](https://www.realvnc.com/en/connect/download/viewer/)
 - Open VNC Viewer
   - In the top bar it will say: `Enter a VNC server Address`
-  - Enter: `[your IP address]
+  - Enter: `[your IP address]`
   - You will be asked again if you trust the connection. Press `yes`
   - input Login: `pi`, Password: `pipi`
 You should now be able to see your Pi's desktop.
