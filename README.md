@@ -20,8 +20,9 @@ Each student group receives a PiBeat kit that includes the following.
 - 1 - 12v 10a Power Supply
 - 8 - 12v 2a Solenoids
 - 8 - 1N5401 Rectifier diodes
+- 1 - Female DC Power Connector
 
-- 3 - Mini Screwdrivers
+- 1 - Mini Screwdrivers
 
 #### Misc Classroom Materials
 - 5 - MicroSD Card Reader
