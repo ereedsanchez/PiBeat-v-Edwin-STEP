@@ -80,6 +80,10 @@ You should now be able to see your Pi's desktop.
 #### Session 2 - Connect Pi to Relay
 Follow Directions here: [Instructable - Pi Drum Machine](https://www.instructables.com/id/A-Raspberry-Pi-Powered-Junk-Drum-Machine/)
 ![](https://content.instructables.com/F6T/MG6O/JPSO3WGR/F6TMG6OJPSO3WGR.png?auto=webp&frame=1&fit=bounds&md=1034be6740d1140a960b44d82ee6e7a5)
+![](https://content.instructables.com/FV6/0MSZ/JPSO3T7Z/FV60MSZJPSO3T7Z.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=5396b8fc0717eb9b18f109e06dfa8761)
+![](https://content.instructables.com/F4D/W7ZO/JPSO3T4N/F4DW7ZOJPSO3T4N.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2f46f634335f56dc24f6c92f49078664)
+![](https://content.instructables.com/FOY/RZLB/JPSO3T2S/FOYRZLBJPSO3T2S.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=dc53fb6870fafba6019e3bc053635536)
+
 
 #### Session 3 - Relay to Solenoids
 
