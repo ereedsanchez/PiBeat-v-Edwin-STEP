@@ -39,10 +39,10 @@ sequence = [
 # List the BCM pin number of the GPIO pins you have connected each solenoid to here. You can leave this as is if you
 # followed the numbering in the Instructable. Add more items to the array if you have more solenoids (and update
 # sequence to match)
-gpio_map = [23, 3, 4, 17, 27, 22, 10, 9]
+gpio_map = [2, 3, 4, 17, 27, 22, 10, 9]
 
 # The Lenth of time each solenoid should be activated
-active_duration = 0.01
+active_duration = 0.02
 
 ############################################# The main script starts here #############################################
 
