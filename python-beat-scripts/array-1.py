@@ -11,7 +11,7 @@ import numpy as np
 ################ Tweak the variables in this section to configure your PI and create your drum pattern ################
 
 # Set the BPM (speed) here
-bpm = 120
+bpm = 200
 
 # Create your drum pattern here. Each line represents a beat. Each 0 or 1 is a solenoid (1 = drum should be played,
 # 0 = don't play). Add more arrays lines to add more beats. Add more 1's or 0's to each array to add more drums (also
@@ -25,10 +25,10 @@ sequence = [
 # List the BCM pin number of the GPIO pins you have connected each solenoid to here. You can leave this as is if you
 # followed the numbering in the Instructable. Add more items to the array if you have more solenoids (and update
 # sequence to match)
-gpio_map = [23, 3, 4, 17, 27, 22, 10, 9]
+gpio_map = [2, 3, 4, 17, 27, 22, 10, 9]
 
 # The Lenth of time each solenoid should be activated
-active_duration = 0.01
+active_duration = 0.05
 
 ############################################# The main script starts here #############################################
 
