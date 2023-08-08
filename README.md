@@ -91,7 +91,9 @@ Follow Directions here: [Instructable - Pi Drum Machine](https://www.instructabl
 
 
 #### Session 5 - Server
-to ru the server u zip the piBeatServer.tar file.
+To run the server unzip the PiBeatServer-V2.tar file.
+Download, uncompress, install requirements, run server.  
+
 
 
 
@@ -99,9 +101,10 @@ to ru the server u zip the piBeatServer.tar file.
 
 
 #### Edwin's WIP notes
-
-- Angular app not working on RPi 3B+
 - Added additional python rythem scripts.
+
+###### Wiring updates
+- Wire drum 1, and drum 2, to alternate pins if pins dont turn off. 
 
 #### Beat Tools
 - https://drumbit.app/
